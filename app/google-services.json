@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843591479408",
+    "project_id": "accidentcontrolfinal2",
+    "storage_bucket": "accidentcontrolfinal2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843591479408:android:209939bef7c0a733f044b5",
+        "android_client_info": {
+          "package_name": "com.example.accidentcontrol_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843591479408-i9u8gnetajarqm2nl2obvnkd958ptat9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQD4IGRhNj3vlK9jo6wVFWwXBWkbwPtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843591479408-i9u8gnetajarqm2nl2obvnkd958ptat9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
