@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".Administrador">
 
+    <Button
+        android:id="@+id/btnLista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lista  Insidentes"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="449dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
